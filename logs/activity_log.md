@@ -9,10 +9,12 @@
 - [x] 10:31 - Viết threat / vulnerability / mitigation
 - [x] 10:31 - Hoàn thành lab1_answers
 - [x] 10:31 - Hoàn thành report-1page
-- [x] 10:54 - Chỉnh sửa
+- [x] 10:54 - Chỉnh sửa nội dung
 - [x] 10:54 - Viết Activity Log
-- [ ] 10:59 - commit lần 1
-
+- [x] 10:59 - commit lần 1
+- [x] 11:06 - push repo và kiểm tra link nộp 
+- [x] 11:09 - Chỉnh sửa log và checklist
+- [x] 11:09 - commit lần 2
 ## Ghi chú thêm
 - Khó khăn gặp phải: Đọc hiểu README
 - Cách em xử lý: Đọc kĩ hơn
