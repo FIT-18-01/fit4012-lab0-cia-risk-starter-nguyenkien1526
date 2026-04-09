@@ -15,6 +15,7 @@
 - [x] 11:06 - push repo và kiểm tra link nộp 
 - [x] 11:09 - Chỉnh sửa log và checklist
 - [x] 11:09 - commit lần 2
+- [x] 11:11 - push repo
 ## Ghi chú thêm
 - Khó khăn gặp phải: Đọc hiểu README
 - Cách em xử lý: Đọc kĩ hơn
