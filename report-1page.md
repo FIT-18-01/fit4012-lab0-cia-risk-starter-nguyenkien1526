@@ -15,18 +15,22 @@
 
 ### 3. Kết quả chính
 **Assets:**
-- 
-- 
+- Dữ liệu điểm sinh viên
+- Tài khoản người dùng
+- Hệ thống cơ sở dữ liệu
 
 **CIA mapping:**
-- Sự cố A -> 
-- Sự cố B -> 
-- Sự cố C -> 
+- Sự cố A -> Availability
+- Sự cố B -> Integrity
+- Sự cố C -> Confidentiality
 
 **Phân tích sự cố B:**
-- Threat: 
-- Vulnerability: 
-- Mitigation: 
+- Threat: Người sửa điểm trái phép 
+- Vulnerability: Thiếu kiểm soát truy cập
+- Mitigation: Phân quyền + log hệ thống + xác thực mạnh
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
+- Bài lab giúp em hiểu rõ mô hình CIA.
+- Việc phân biệt threat và vulnerability rất quan trọng.
+- Đây là nền tảng của các môn bảo mật sau này.
+- Ngoài ra, em làm quen được với GitHub workflow trong quá trình làm bài.
